@@ -5,7 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 // some modfiticatipns
 
-@SpringBootTest
+@SpringBootTest // some
 class OrganizationApplicationTests {
 
     @Test
