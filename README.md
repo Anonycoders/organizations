@@ -71,3 +71,38 @@ if (process.env.NODE_ENV !== 'production') globalForPrisma.prisma = prisma;
 
 export default prisma;
 ```
+
+
+c++ 
+
+```cpp
+int main ()
+{
+  myfunction();
+  whatever else;
+} 
+```
+
+Python
+
+```py
+def myfunction(comma, separated, parameters):
+  code goes here
+```
+
+
+Ruby
+
+```rb
+def myfunction(comma, seperated, parameters)
+  code goes here
+end
+```
+
+GoLang
+
+```go
+func myfunction(comma type, separated type, parameters type) type {
+ code goes here
+}
+```
