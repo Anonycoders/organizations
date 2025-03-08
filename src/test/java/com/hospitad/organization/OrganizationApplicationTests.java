@@ -3,7 +3,9 @@ package com.hospitad.organization;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+// some modfiticatipns
+
+@SpringBootTest // some
 class OrganizationApplicationTests {
 
     @Test
